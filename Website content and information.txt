@@ -1,0 +1,14 @@
+Website content:
+- Name
+- Age
+- Student
+- City
+- Contact
+- Work
+- GitHub link
+- Code start date
+- Socials
+- Specialization
+- About page
+- Work page
+- Contact page
