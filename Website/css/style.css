@@ -115,6 +115,10 @@ a {
     list-style: none;
 }
 
+.educationItem {
+    margin-bottom: 10px;
+}
+
 .contactMe {
     grid-area: contactMe;
 }
@@ -205,5 +209,6 @@ a {
     }
     .profileImage {
         align-self: center;
+        margin-right: 0;
     }
 }
